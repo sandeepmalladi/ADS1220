@@ -3,10 +3,6 @@
 #include "math.h"
 
 
-#define NWIDTH 20                                   /* Size of the data buffer; length of the sequence. */
-#define STOPPER 0                                   /* Smaller than any datum */
-#define AVERGARE_COUNT 1000                        /*Count can be any number from 2,4,8,16 */
-
 #define PGA 128                                     // Programmable Gain = 1
 #define VREF 5.0                                    // Internal reference of 2.048V
 #define VFSR VREF/PGA             
