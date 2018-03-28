@@ -1,0 +1,6 @@
+ADS1220 Library:
+
+SPI_MOSI = 
+SPI_MOSI 
+SPI_CLK
+SPI_CS 
